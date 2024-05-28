@@ -1,3 +1,5 @@
+## Here, you can see how the accuracy increases when we optimized our hyper parameters. 
+
 
 ## Customer Category Prediction Notebook
 
