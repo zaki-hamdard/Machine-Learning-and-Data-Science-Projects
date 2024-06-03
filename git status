@@ -1,0 +1,90 @@
+[33mcommit e8a8bcb69f085e1235d5292733da3705fdaa548c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Fri May 31 17:36:45 2024 +0430
+
+    clustering project added
+
+[33mcommit d6d7a4719510dc6698541bdc36111acb73f6fa89[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Fri May 31 15:02:58 2024 +0430
+
+    some change made
+
+[33mcommit 9791ce7f58260a15195cb18ffc13da690620e9c0[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Fri May 31 15:01:23 2024 +0430
+
+    K-Means clustering project added
+
+[33mcommit 004d7f98589ae4d277fefff231fb1a05986c43aa[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Fri May 31 13:56:20 2024 +0430
+
+    some changes made
+
+[33mcommit c007cbaa136eff577223d8d777894924eadfcf5e[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Thu May 30 10:00:57 2024 +0430
+
+    support vector machine project added
+
+[33mcommit 4eaa96b8be8575230e2d6f823644cc6f6887bc63[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Wed May 29 09:41:16 2024 +0430
+
+    Random forest project added
+
+[33mcommit 9fed307013025de8dbabea33c742d6e2a7b32039[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Tue May 28 18:45:54 2024 +0430
+
+    Logistic Regression project added
+
+[33mcommit 643af09b9274aa926f54026ee4fc17911aac9d17[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Tue May 28 16:31:54 2024 +0430
+
+    Linear regression algorithm added to the project
+
+[33mcommit b43919e769fa2d84bb824a66d2875e0ad6be41c0[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Tue May 28 10:16:55 2024 +0430
+
+    files updated
+
+[33mcommit 999278facdccf2a8890e884e82d3a8553d2c3adb[m
+Merge: ca0d5a8 64f7262
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Tue May 28 08:55:26 2024 +0430
+
+    decision tree project added
+
+[33mcommit ca0d5a800352725ed4a00005a482a4f1036d79e0[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Tue May 28 08:51:07 2024 +0430
+
+    decision tree project added
+
+[33mcommit 64f72623e29cf5a9f0f29012c44aefafb6bec605[m
+Author: Zakiullah Nasiri <zakihamdard73@gmail.com>
+Date:   Mon May 27 16:37:18 2024 +0430
+
+    Update README.md
+
+[33mcommit 18f5f89c9e8ac8d71154839fc364de93b40ab7e0[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Mon May 27 16:32:10 2024 +0430
+
+    hyper parameter tuning on a knn algorithm
+
+[33mcommit 04dd4a37589da2104187768ee286ed1f46bd9a01[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Mon May 27 11:25:14 2024 +0430
+
+    readme file added for the root repo
+
+[33mcommit e8e964429e7ee5f425113b8a074c19901987df41[m
+Author: zaki-hamdard <zakihamdard73@gmail.com>
+Date:   Mon May 27 11:18:58 2024 +0430
+
+    KNN algorith added to the repository
